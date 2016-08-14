@@ -1,4 +1,3 @@
-layout_spectrum: 0.9518836555071175
 typography_spectrum: 0.49495239183306694
 color:
   brandStrength: 0.19849182106554508
@@ -11,4 +10,7 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+layout_spectrum: 0.9518836555071175
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c958b94d-53a8-4481-aa76-429fa55e9f07.png
 name: Coco Michele Photography
