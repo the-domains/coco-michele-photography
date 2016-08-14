@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Coco Michele Photography]]></title>
+        <description><![CDATA[Coco Michele Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 14 Aug 2016 04:27:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf76cd5d-8010-487b-9628-f14ca4bd1af8.jpg">]]></description>
+            <link>undefined1c9373b8-8079-4e2f-8b65-7abf63cb1f58/index.html</link>
+            <guid isPermaLink="false">1c9373b8-8079-4e2f-8b65-7abf63cb1f58</guid>
+            <pubDate>Sun, 14 Aug 2016 04:27:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
